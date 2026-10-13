@@ -2,6 +2,12 @@
 
 Thanks for spending this time with us. This document explains everything we're asking for in this session: the situation, what to build, what we give you, how the time runs, and what we're looking for. Read it top to bottom once. It should answer most of your questions, and you can ask us anything else at any point. The same text is in the kit as `BRIEF.md`.
 
+**Get the kit:** use the zip attached to your email, or clone the public repo:
+
+```bash
+git clone https://github.com/the-sid-dani/audience-agent-exercise
+```
+
 ---
 
 ## 1. Why this exercise
