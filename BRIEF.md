@@ -1,6 +1,6 @@
 # Audience Agent: Live Build Exercise
 
-Thanks for spending this time with us. This document explains everything we're asking for in this session: the situation, what to build, what we give you, how the time runs, and what we're looking for. Read it top to bottom once. It should answer most of your questions, and you can ask us anything else at any point. The same text is in the zip as `BRIEF.md`.
+Thanks for spending this time with us. This document explains everything we're asking for in this session: the situation, what to build, what we give you, how the time runs, and what we're looking for. Read it top to bottom once. It should answer most of your questions, and you can ask us anything else at any point. The same text is in the kit as `BRIEF.md`.
 
 ---
 
@@ -52,7 +52,7 @@ Use any stack you like: any language, any model, any framework or protocol (MCP,
 
 ## 4. What we give you
 
-The zip `audience-agent-exercise.zip`, which unzips to a folder with:
+The kit, as the zip `audience-agent-exercise.zip` or the public repo [github.com/the-sid-dani/audience-agent-exercise](https://github.com/the-sid-dani/audience-agent-exercise) (same files), with:
 
 | File | What it is |
 |---|---|
